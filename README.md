@@ -1,5 +1,5 @@
 # Demo-Video-Skill
-A skill for Cowork, enables creation of polished videos and demo videos from raw screen recordings, recorded meetings, existing videos and B-roll footage. Does rich and powerful video editing, narration and captioning for you, based on a brief document which you review. This is provided without warranty or support. Subscribe for updates.
+A skill for Cowork, enables creation of polished videos and demo videos from raw screen recordings, recorded meetings, existing videos and B-roll footage. Does rich and powerful video editing, narration and captioning for you, based on a brief document which you review. Just give Cowork the latest zip file and ask it to install the skill for you.
 
 This skill can sequence, trim, re-speed, transition, pause and optimise multiple sources of videos included recorded meetings. It also handles panning/zooming and spotlighting screen areas, and also removes "mouse waving" and excessive scrolling. It can accept or create a narration voiceover and do granular voice/music volume mixing. Overlay graphics, titles, personas and value summary visuals are also created - using brand of choice.
 
